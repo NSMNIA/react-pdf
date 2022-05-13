@@ -30,4 +30,5 @@ If the `href` is set, the iframe will be rendered with the PDF.
 ```
 
 ## Example
+The following is an example of how the PDF will look like. You can visit the [working GitHub Page](https://nsmnia.github.io/react-pdf/).
 ![Generated PDF](pdf.png)
